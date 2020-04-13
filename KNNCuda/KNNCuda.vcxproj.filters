@@ -15,8 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <None Include="main.cu">
+    <CudaCompile Include="MainP.cu">
       <Filter>File di origine</Filter>
-    </None>
+    </CudaCompile>
   </ItemGroup>
 </Project>
